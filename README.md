@@ -12,7 +12,7 @@ systems, code quality, and developer productivity.
 Ruby, Rails, PostgreSQL, MySQL, Sidekiq, Redis, REST, RSpec, JavaScript/TypeScript, React.js,
 AWS, Datadog, Git/GitHub, CI/CD.
 
-While those are my most recent focus, I have worked with many languages (Ruby, Java, Pearl, Go, etc)
+While those are my most recent focus, I have worked with many languages (Ruby, Java, Perl, Go, etc)
 across many stacks/frameworks (Rails, JEE), and worked with many 3rd-party services from Auth0 to Stripe.
 
 ## How I like to work
