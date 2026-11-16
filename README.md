@@ -18,7 +18,7 @@ I enjoy pragmatic architecture, incremental production migrations, strong tests,
 Most of my production work lives in private company repositories, so this profile is a concise overview of my background and engineering approach.
 
 ## What I'm Looking For
-Senior or Staff IC / Tech Lead roles in backend/platform architecture, full-stack or backend-focused full-stack development, reliability/observability, and developer productivity.
+Senior or Staff IC / Tech Lead roles in backend/platform architecture, full-stack or backend-focused full-stack development.
 
 ## Connect
 - [LinkedIn](https://www.linkedin.com/in/bhcastle/)
