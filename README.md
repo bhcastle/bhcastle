@@ -3,9 +3,9 @@
 Senior / Staff Software Engineer based in Charleston, SC (US Eastern), with 20+ years of experience building and operating enterprise SaaS products at startups from early- to late-stage. I focus on backend and platform architecture, Ruby on Rails, and engineering productivity, and I'm comfortable working across the full stack when needed.
 
 ## Recent Work
-- Building and operating core Billing & Identity systems at Algolia, supporting 411K+ live applications, 1.1M+ live users, and 27K+ monthly invoices.
-- Designing and maintaining subscription, invoicing, and payment integrations (including Stripe, Braintree, and PayPal) alongside SAML/SSO, Auth0, RBAC, and internal/external APIs.
-- Improving reliability, maintainability, and delivery velocity through incremental migrations, background-job workflows, testing discipline, and observability.
+- Built and operated core Billing & Identity systems at Algolia, supporting 411K+ live applications, 1.1M+ live users, and 27K+ monthly invoices.
+- Designed and maintained subscription, invoicing, and payment integrations (including Stripe, Braintree, and PayPal) alongside SAML/SSO, Auth0, RBAC, and internal/external APIs.
+- Improved reliability, maintainability, and delivery velocity through incremental migrations, background-job workflows, testing discipline, and observability.
 
 ## Core Stack
 Ruby, Ruby on Rails, PostgreSQL, MySQL, Sidekiq, Redis, REST/GraphQL APIs, RSpec, React, TypeScript, JavaScript, AWS, Heroku, Datadog, Sentry, Git/GitHub, CI/CD.
